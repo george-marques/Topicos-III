@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\George\\Downloads\\Atividade2-George\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFBA249-BB76-43EC-AEC1-B0645F1836C9}|Atividade2-George.csproj|c:\\users\\george\\downloads\\atividade2-george\\src\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFBA249-BB76-43EC-AEC1-B0645F1836C9}|Atividade2-George.csproj|solutionrelative:src\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\George\\Downloads\\Atividade2-George\\src\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Program.cs",
+              "ToolTip": "C:\\Users\\George\\Downloads\\Atividade2-George\\src\\Application\\Program.cs",
+              "RelativeToolTip": "src\\Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:02:39.879Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
