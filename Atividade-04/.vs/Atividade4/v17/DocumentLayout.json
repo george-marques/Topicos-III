@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\George\\source\\repos\\Atividade4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B4395-A791-49EE-9812-C51BA9355E10}|Crud\\Crud.csproj|c:\\users\\george\\source\\repos\\atividade4\\crud\\views\\carros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD5B4395-A791-49EE-9812-C51BA9355E10}|Crud\\Crud.csproj|solutionrelative:crud\\views\\carros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B4395-A791-49EE-9812-C51BA9355E10}|Crud\\Crud.csproj|c:\\users\\george\\source\\repos\\atividade4\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD5B4395-A791-49EE-9812-C51BA9355E10}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B4395-A791-49EE-9812-C51BA9355E10}|Crud\\Crud.csproj|c:\\users\\george\\source\\repos\\atividade4\\crud\\controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5B4395-A791-49EE-9812-C51BA9355E10}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B4395-A791-49EE-9812-C51BA9355E10}|Crud\\Crud.csproj|c:\\users\\george\\source\\repos\\atividade4\\crud\\views\\carros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD5B4395-A791-49EE-9812-C51BA9355E10}|Crud\\Crud.csproj|solutionrelative:crud\\views\\carros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\George\\source\\repos\\Atividade4\\Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\George\\source\\repos\\Atividade4\\Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T11:31:29.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoasController.cs",
+              "DocumentMoniker": "C:\\Users\\George\\source\\repos\\Atividade4\\Crud\\Controllers\\PessoasController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\PessoasController.cs",
+              "ToolTip": "C:\\Users\\George\\source\\repos\\Atividade4\\Crud\\Controllers\\PessoasController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\PessoasController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:31:00.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\George\\source\\repos\\Atividade4\\Crud\\Views\\Carros\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Carros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\George\\source\\repos\\Atividade4\\Crud\\Views\\Carros\\Index.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Carros\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T11:30:30.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\George\\source\\repos\\Atividade4\\Crud\\Views\\Carros\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Carros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\George\\source\\repos\\Atividade4\\Crud\\Views\\Carros\\Create.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Carros\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T11:26:44.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
